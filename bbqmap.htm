@@ -7,6 +7,8 @@
   <style>
     #map{ height: 100%; }
   </style>
+  <style>body { padding: 0; margin: 0; } html, body, #map { height: 100vh; width: 100vw; }
+  </style>
 </head>
 <body>
 
@@ -35,7 +37,25 @@
       }
     }).addTo(map);
   });
- 
+  
+  function onLocationFound(e) {
+    var radius = e.accuracy / 2;
+
+    L.marker(e.latlng).addTo(map)
+      .bindPopup("You are within " + radius + " meters from this point").openPopup();
+
+    L.circle(e.latlng, radius).addTo(map);
+  }
+
+  function onLocationError(e) {
+    alert(e.message);
+  }
+
+  map.on('locationfound', onLocationFound);
+  map.on('locationerror', onLocationError);
+
+  map.locate({setView: true, maxZoom: 10});
+
   </script>
 </body>
 </html>
