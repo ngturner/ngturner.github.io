@@ -30,7 +30,7 @@
     L.geoJson(data, {
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng);
-        marker.bindPopup("Name: " + feature.properties.Name + '<br/>' + feature.properties.Opened + '<br/>' + feature.properties.Pitmaster + '<br/>' + feature.properties.Method + '<br/>' + feature.properties.ProTip + '<br/>' + feature.properties.Copy + '<br/>' + feature.properties.Rating + '<br/>' + feature.properties.Address + '<br/>' + feature.properties.City + '<br/>' + feature.properties.State + '<br/>' + feature.properties.Phone + '<br/>' + feature.properties.Hours);
+        marker.bindPopup("<b>Name:</b> " + feature.properties.Name + '<br/>' + "<b>Opened:</b> " + feature.properties.Opened + '<br/>' + "<b>Pitmaster:</b> " + feature.properties.Pitmaster + '<br/>' + "<b>Method:</b> " + feature.properties.Method + '<br/>' + "<b>ProTip:</b> " + feature.properties.ProTip + '<br/>' + "<b>Description:</b> " + feature.properties.Copy + '<br/>' + "<b>Rating:</b> " + feature.properties.Rating + '<br/>' + "<b>Address:</b> " + feature.properties.Address + ", " + feature.properties.City + ", " + feature.properties.State + '<br/>' + "<b>Phone:</b> " + feature.properties.Phone + '<br/>' + "<b>Hours:</b> " + feature.properties.Hours);
         return marker;
       }
     }).addTo(map);
