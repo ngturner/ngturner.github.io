@@ -1,0 +1,1055 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.7656021,32.4323006 ]
+    },
+    "properties": {
+    "Name":"Stillwater Barbeque",
+    "Opened":2013,
+    "Pitmaster":"Matt Proctor, 33",
+    "Method":"Oak; all-wood rotisserie smoker",
+    "ProTip":"Snag one of their “Make BBQ Great Again” hats.",
+    "Copy":"“Matt’s gone to feed the governor,” Emily Hall told us on our visit. She was referring to Matt Proctor, the founding pitmaster of Stillwater, who’d been summoned to Austin to grill for a cohort of visiting Aussies. But Hall, Proctor’s twenty-year-old apprentice, handled the pit with aplomb. The beef ribs (offered daily) were long gone, but the pork spareribs we ordered were just the right amount of sweet. What set the brisket apart was its subtle smoke, a feature that can be rare in the mesquite-choked prairies of West Texas (though the thick cut did make it a tad tough). We completed the meat trinity with the house-made pork-beef jalapeño sausage, and for a palate cleanser, we wolfed down some pecan cobbler and Stillwater’s legend-in-the-making banana pudding.",
+    "Rating":4,
+    "Address":"3365 S. 14th",
+    "City":"Abilene",
+    "State":"TX",
+    "Phone":"325-518-5071",
+    "Hours":"Tue–Fri 11–8, Sat 11–3 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.8730011,35.1916008 ]
+    },
+    "properties": {
+    "Name":"Tyler’s Barbeque",
+    "Opened":2010,
+    "Pitmaster":"Tyler Frazer, 49",
+    "Method":"Mesquite and oak blend; indirect-heat pit",
+    "ProTip":"Go on Thursday for green-chile mac and cheese.",
+    "Copy":"Tyler Frazer is at the heart of the operation, greeting customers and making recommendations—a lot of time and care go into the food and overall experience here. When we arrived, a little before noon, and joined the crowd of locals, it was the thick cuts of brisket that grabbed our attention. Equally as good were the tasty pork ribs, and while they weren’t the meatiest we’ve ever had, their distinct mesquite flavor held on right down to the bone. The runner-up was the black-peppercorn sausage. After you pick up your order, belly up to the garnish stand for assorted peppers and pickles. For sauce lovers (it’s okay, we know you exist), neither the regular nor the hot option will let you down.",
+    "Rating":4,
+    "Address":"2014 Paramount",
+    "City":"Amarillo",
+    "State":"TX",
+    "Phone":"806-331-2271",
+    "Hours":"Tue–Fri 11–7:30, Sat 11–6 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4689026,25.9085007 ]
+    },
+    "properties": {
+    "Name":"Vera’s Backyard Bar-B-Que",
+    "Opened":1955,
+    "Pitmaster":"Mando Vera, 56",
+    "Method":"Mesquite coals; subterranean pit.",
+    "ProTip":"Get there early and ask to check out the pits where the barbacoa is cooked.",
+    "Copy":"With roots in Mexico, barbacoa became a mainstay on South Texas ranches, where cowboys were hungry and cow heads were plentiful (Texans were expert at nose-to-tail eating long before it became trendy). Today, most commercial barbacoa is steamed or done in pressure cookers to comply with health codes. Vera’s time-honored method has been grandfathered in, and some suspect that local politicians simply couldn’t imagine life without their barbacoa tacos. The Vera family’s process calls for the heads to be tightly wrapped in foil and cooked for long hours in earthen pits over mesquite coals; their unpretentious place is the only restaurant in the state still doing it this way. You can get lengua (tongue), mixto (everything), or cachete (cheek, the leanest), all terrific tucked into a fresh corn tortilla along with Vera’s tangy avocado-jalapeño salsa.",
+    "Rating":4,
+    "Address":"2404 Southmost Blvd",
+    "City":"Brownsville",
+    "State":"TX",
+    "Phone":"956-546-4159",
+    "Hours":"Fri–Sun 4:30 a.m.–2:30 p.m."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.237999,30.7584 ]
+    },
+    "properties": {
+    "Name":"Payne’s Bar-B-Q Shak",
+    "Opened":2011,
+    "Pitmaster":"Robert Payne, 73",
+    "Method":"Oak; indirect-heat pit",
+    "ProTip":"Go on the early side. As the sign says, “We are open till we close.”",
+    "Copy":"Hugging the edge of Texas Highway 29, Payne’s is a true side-of-the-road joint, a turn-on-your-blinker-half-a-mile-ahead, career-off-the-road-in-a-cloud-of-dust kind of place. Once safely inside, you’ll take comfort in the wood-paneled walls, shiny picnic tables, dainty window coverings, and hospitality of Robert and Penny Payne, retirees turned pitmasters who work out of what looks like a home kitchen. The place is charmingly no frills, and so is the barbecue, a Platonic ideal of smoked meat embodied in the snap of the house-made sausage, the perfect bite of a substantial pork rib, the smoky flavor of the juicy, black-barked brisket. There are sides of potato salad, coleslaw, and Southern-style vegetables to round out your repast, as well as gratis beans. And the sandwiches are decidedly above average.",
+    "Rating":4,
+    "Address":"616 Buchanan Dr",
+    "City":"Burnet",
+    "State":"TX",
+    "Phone":"512-756-8227",
+    "Hours":"Wed–Thur 11–2:30, Fri 11–6, Sat 11–2:30."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8283997,32.7494011 ]
+    },
+    "properties": {
+    "Name":"Lockhart Smokehouse",
+    "Opened":2011,
+    "Pitmaster":"Damian Avila, 33, and Carolina Maldonado, 33",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"After you eat, poke around the eclectic shops of the Bishop Arts District.",
+    "Copy":"It’s all in the family here. Co-founder Jill Grobowsky Bergus’s grandfather was Edgar Schmidt, the man who made Kreuz Market famous. That’s why three of the Lockhart joint’s specialties show up here: two great sausages and the cut known as shoulder clod. If you order actual brisket, you may find the best bites come from around its beautifully crusted edges. As for pork, the pulled stuff is nothing special, but the ribs are quite nice, with a magnificent bark. On Wednesdays, share a scandalously salted and peppered beef rib, a thing of shock and awe. There are antique signs galore on the walls, and tall ceilings with exposed rafters. Oh, and a full bar. (The Plano location—which has a pleasant, small-town feel—offers occasional smoking classes, announced on Twitter and Facebook.)",
+    "Rating":4,
+    "Address":"400 W. Davis",
+    "City":"Dallas",
+    "State":"TX",
+    "Phone":"214-944-5521",
+    "Hours":"Open 7 days 11–9 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8554001,32.6043015 ]
+    },
+    "properties": {
+    "Name":"Top 5 BBQ",
+    "Opened":2016,
+    "Pitmaster":"Kendon Greene, 36",
+    "Method":"Oak and pecan; convection-style gas rotisserie",
+    "ProTip":"The tortilla chips for barbecue nachos are made in house and dusted with a spicy rub. You can get the chips to go too.",
+    "Copy":"Strip centers are seldom homey, but the first thing you’ll notice at Top 5 is a sense of community. Kendon Greene greets every customer with “It’s a smoking good day!” and the staff is equally friendly and chatty. They’re good people, and they produce great, highly distinctive ’cue, thanks largely to a dry rub consisting of, among other things, turmeric, cumin, curry powder, and smoked paprika. Greene calls it his universal rub—“because I put it on everything”—and you’ll taste it most clearly on the tender pork ribs. More traditional, the flawlessly smoked, heartier brisket and beef ribs were rapper Jay Z’s favorite during a recent visit to Texas. Note also the sides and desserts, all scratch-made by Greene’s wife, Davetta. The collard greens and mac and cheese are standouts, as is the peach cobbler.",
+    "Rating":4,
+    "Address":"209 E. Pleasant Run Rd",
+    "City":"DeSoto",
+    "State":"TX",
+    "Phone":"972-230-5559",
+    "Hours":"Tue–Thur 11–9, Fri & Sat 11–10."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.4710999,32.7499008 ]
+    },
+    "properties": {
+    "Name":"4-T’s Bar-B-Q",
+    "Opened":2010,
+    "Pitmaster":"Mike Thomas, 56",
+    "Method":"Hickory; indirect-heat smoker",
+    "ProTip":"Don’t miss the gooey chocolate pecan pie from Thomas’s wife, Cyndi.",
+    "Copy":"Something moved Mike Thomas to purchase his first barbecue pit at the State Fair of Texas in 1988, and Kaufman County should be grateful for that. His backyard hobby slowly became a passion, and, after losing his telecom job in 2003, he set up a roadside brisket stand, which morphed into a food truck and ultimately a real building. Unassuming at first glance, it’s welcoming on the inside, with Texana kitsch and corrugated metal walls. A bustling lunchtime crowd tucks into Thomas’s masterfully executed fare. His brisket—under a simple salt-and-pepper rub—is magnificent, boasting a thick bark halo after eighteen hours of cooking.",
+    "Rating":4,
+    "Address":"205 W. Broad",
+    "City":"Forney",
+    "State":"TX",
+    "Phone":"972-552-3363",
+    "Hours":"Tue–Sun 11–3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3374023,32.7305984 ]
+    },
+    "properties": {
+    "Name":"Heim Barbecue",
+    "Opened":2015,
+    "Pitmaster":"Travis Heim, 28",
+    "Method":"Oak; indirect-heat pit",
+    "ProTip":"The bacon burnt ends have healing powers.",
+    "Copy":"Travis and Emma Heim jumped into business ownership with little experience or capital in 2015. The Heim truck hadn’t been parked a year before they got an offer to build out their very own spot on West Magnolia. Their barbecue was that good. That location opened in late 2016 with a new fleet of smokers, a much larger staff, and a well-appointed bar designed to bring in a hip crowd. The barbecue initially suffered through some growing pains and inconsistency, but now it’s back to normal, and their excellent beef rib has thankfully made its way onto the daily menu. Just as the Heims are getting settled, a second location is already in the works.",
+    "Rating":4,
+    "Address":"1109 W. Magnolia Ave",
+    "City":"Fort Worth",
+    "State":"TX",
+    "Phone":"817-882-6970",
+    "Hours":"Wed–Mon 11–10 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.433197,29.5195999 ]
+    },
+    "properties": {
+    "Name":"Baker Boys BBQ",
+    "Opened":2015,
+    "Pitmaster":"Phil Baker, 63, Wayne Baker, 35",
+    "Method":"Oak lump briquettes; indirect-heat pit",
+    "ProTip":"Add some fried catfish to your barbecue platter on Fridays.",
+    "Copy":"After Phil Baker and his son, Wayne, had some success on the barbecue competition circuit, they decided it was time to do more more than feed judges. They opened Baker Boys BBQ in a metal building on the east side of Gonzales two years ago. Their selections exhibit a subtler post oak–smoke flavor than is typical of the area, and the variety is ample. Pork loin and pepper-crusted turkey breast are eminently juicy, while the homemade beef and pork sausage links are fantastic, serving as a proper homage to the region’s sausage-making traditions. Unique—as far as we know—is their smoked boneless chicken leg, crispy-skinned and stuffed with onion and jalapeños. Beautiful it’s not; tasty it is. For dessert? Layered banana pudding, made from the excellent recipe of Phil’s late mother, Virgie.",
+    "Rating":4,
+    "Address":"1404 N. Sarah DeWitt Dr",
+    "City":"Gonzales",
+    "State":"TX",
+    "Phone":"830-519-4400",
+    "Hours":"Mon–Fri 10–6, Sat 10–4."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4293976,29.8201008 ]
+    },
+    "properties": {
+    "Name":"Gatlin’s BBQ",
+    "Opened":2010,
+    "Pitmaster":"Greg Gatlin, 37",
+    "Method":"Hickory and oak; indirect-heat pit",
+    "ProTip":"Avoid the lunch rush unless you love long, slow lines.",
+    "Copy":"Pitmaster Greg Gatlin used to be a defensive back at Rice, which was no doubt good mental training for running a barbecue business. He upgraded his highly successful operation a couple of years ago from a small house to new digs with more than four thousand square feet of space. (One thing that has stayed the same, though, is the presence of Greg’s mom, Mary, greeting everybody at the door on weekends.) The menu too has grown with time. While the brisket is satisfying and smoky, it’s the pork ribs (both baby backs and St. Louis–cut) that are the winners: tender, juicy, and with an excellent rub. As for the fine sausages, it’s hard to choose, but you might try the venison just for the novelty. And do not skip the show-stopping dirty rice—Cajun comfort food at its best.",
+    "Rating":4,
+    "Address":"3510 Ella Blvd",
+    "City":"Houston",
+    "State":"TX",
+    "Phone":"713-869-4227",
+    "Hours":"Mon–Fri 11–3 & 5–9, Sat 11–9 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.3451004,32.7575989 ]
+    },
+    "properties": {
+    "Name":"Joseph’s Riverport Bar-B-Cue",
+    "Opened":1993,
+    "Pitmaster":"Stephen Joseph, 49",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Ask about the “Swamp Fries challenge.”",
+    "Copy":"Riverport is a quintessential small-town barbecue joint, sitting on a corner in a charming East Texas town. After the place burned to the ground five years ago, the city rallied around owner Stephen Joseph. When he could barely make a profit in this secluded small town, the townspeople stepped up their patronage. There was a line out the door on the Wednesday we visited. The sweet and salty spareribs were supremely tender, as was the combination of simple pinto beans and hot-water cornbread on the side. A new method Joseph was trying for the smoked turkey breast was also a winner. The Bewley pit in back turns out a great brisket even though this is one of the few spots on our list that doesn’t use premium beef. Folks in Jefferson aren’t gonna cough up $20 a pound for it, but happily for them, Joseph does a fine job with Choice grade for $14.",
+    "Rating":4,
+    "Address":"201 N. Polk",
+    "City":"Jefferson",
+    "State":"TX",
+    "Phone":"903-665-2341",
+    "Hours":"Tue–Thur 11–6, Fri & Sat 11–7, Sun 11–3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.6818008,30.7595005 ]
+    },
+    "properties": {
+    "Name":"Cooper’s Old Time Pit Bar-B-Que",
+    "Opened":1963,
+    "Pitmaster":"Kenny Oestreich, 52, Louis Garcia, 60",
+    "Method":"Mesquite; direct-heat pit",
+    "ProTip":"The New Braunfels location may just be as good as the original—and it’s a lot spiffier.",
+    "Copy":"“Blood makes you related, but barbecue makes you family,” said the camo-clad guy to a young boy across from him at our long communal table. It was three o’clock on a Saturday, but the bare-bones place was humming like Grand Central Station, nearly every table populated by smoked-meat devotees from near and far. If it’s your first visit, you’ll want the pork ribs, lightly glazed and perfectly porky, and the brisket, the meat tender and moist beneath a stratum of smoky fat and a coarse, beautifully seasoned crust. Or go for the pork chop, a pink, pepper-crusted behemoth that could feed four. That is, if you don’t get the hefty beef rib, which masquerades as a chunk of blackened firewood and then proceeds to melt in your mouth.",
+    "Rating":4,
+    "Address":"604 W. Young",
+    "City":"Llano",
+    "State":"TX",
+    "Phone":"325-247-5713",
+    "Hours":"Sun–Thur 11–8, Fri & Sat 11–9."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8164978,28.1138 ]
+    },
+    "properties": {
+    "Name":"Smolik’s Smokehouse",
+    "Opened":1989,
+    "Pitmaster":"John Rodriguez, 53",
+    "Method":"Mesquite and hickory; wood-fired rotisserie smoker",
+    "ProTip":"Go for the sausage (the family has been making it for a hundred years, so they know a thing or two).",
+    "Copy":"Just off Interstate 37, Smolik’s second location (the 1989 original is downtown) is worth a detour. On our stroll up to the counter, we perused vintage knickknacks and newspaper clippings lauding the proud Czech family’s history of smoking meat in South Texas since 1928. They throw some beef fat right into the fire to burn along with the wood. It’s a trick to give the brisket the grilled flavor of direct-heat cooking, but in an indirect heat smoker. They impress with pig and poultry too. The ample pork spareribs had a barely sweet crust and ideal tenderness. The sausage was aromatic with garlic and pepper, and the plump halves of smoked chicken were remarkably moist. Among the usual sides, house-made onion rings and braised cabbage stood out. For dessert? Kolaches, of course.",
+    "Rating":4,
+    "Address":"10541 TX-359",
+    "City":"Mathis",
+    "State":"TX",
+    "Phone":"361-547-3700",
+    "Hours":"Mon–Sat 10:30–9."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4899979,31.4158001 ]
+    },
+    "properties": {
+    "Name":"Pody’s BBQ",
+    "Opened":2011,
+    "Pitmaster":"Israel “Pody” Campos, 42; Veronica Campos, 35; and Margaret Franco, 61",
+    "Method":"Pecan, oak, and mesquite; offset smokers and a wood-fired rotisserie",
+    "ProTip":"Pody will show you his sheriff’s badge if you ask nicely.",
+    "Copy":"It took the whole family to transform an abandoned laundromat into a barbecue destination. Inside you’re likely to find Pody Campos’s wife, Veronica, or his mother, Margaret Franco, tending the pits. Even his aunt, Erma Soto, helps out sometimes. They need to, because while Campos’s passion is smoking meat, he has another full-time job, as deputy sheriff in Reeves County. By 11 a.m., customers are queueing up for thick-cut brisket, monster spareribs, and signature green-chile hominy. You won’t need sauce, but if you like it tingly, ask for some of the West Texas hot sauce from behind the counter.",
+    "Rating":4,
+    "Address":"1330 S. Cedar",
+    "City":"Pecos",
+    "State":"TX",
+    "Phone":"432-448-4635",
+    "Hours":"Mon–Wed 11–2:30 & 6–9, Thur & Fri 11–2:30."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8523026,32.3777008 ]
+    },
+    "properties": {
+    "Name":"Harris Bar-B-Que",
+    "Opened":2013,
+    "Pitmaster":"Kelvin Harris, 50",
+    "Method":"Hickory, oak, and whatever wood Harris can swap a chopped beef sandwich for; reverse-flow smoker",
+    "ProTip":"Ask for Texas toast instead of a bun for your sandwich.",
+    "Copy":"A backyard warrior during his younger days in Oak Cliff, Kelvin Harris spent his downtime as a maintenance worker in an aircraft mechanic shop studying videos of the state’s barbecue masters on his phone. Eventually he opened his own place. When early critics of his otherwise stellar brisket suggested he’d benefit from cleaner smoke, he started discarding his old coals each morning. Now his brisket ranks with his YouTube mentors’. Our suggestion? He should focus next on the pork ribs, which taste fantastic but can be a tad tough. Other dishes are spot on. A pineapple juice–spiked sauce elevates his pulled pork sandwiches, while a side of pinto beans, finished with fresh tomatoes and scrap beef and pork, is a meal unto itself.",
+    "Rating":4,
+    "Address":"220 US-77",
+    "City":"Waxahachie",
+    "State":"TX",
+    "Phone":"972-923-0040",
+    "Hours":"Tue–Sat 11–5:30 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7548981,30.2600002 ]
+    },
+    "properties": {
+    "Name":"Terry Black’s Barbecue",
+    "Opened":2014,
+    "Pitmaster":"Michael Black, 28, and Mark Black, 28",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"One of the few Austin barbecue joints on this list that’s open on Mondays.",
+    "Copy":"Twins Mark and Michael Black jumped into the barbecue business with their father, Terry, three years ago just south of downtown Austin. It didn’t take long for them to get out of the shadow of Lockhart (Terry’s brother, Kent, runs the Black’s in that city as well as two other locations) and make their own mark on Texas barbecue. Service here is meat-market style: customers line up for sides and desserts before being ushered by a meat cutter over to the chopping block. Often the meats are out on display, making it hard to resist a peppery pork rib or a link of the plump, homemade beef sausage. The sliced brisket is excellent too, even from the lean side, but it’s the beef rib, lusciously fatty, that’ll have you coming back. This may well be the most underrated barbecue joint in Austin.",
+    "Rating":4.25,
+    "Address":"1003 Barton Springs Rd",
+    "City":"Austin",
+    "State":"TX",
+    "Phone":"512-394-5899",
+    "Hours":"Open 7 days 11–9 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8332977,30.1532001 ]
+    },
+    "properties": {
+    "Name":"Valentina’s Tex Mex BBQ",
+    "Opened":2013,
+    "Pitmaster":"Miguel Vidal, 37",
+    "Method":"Mesquite; wood-fired offset smoker",
+    "ProTip":"You definitely want the smoked corn with Mexican crema.",
+    "Copy":"At the moveable feast known as Valentina’s—which still occupies a shiny truck but is headed for a brick-and-mortar home later this year—the term “fusion cuisine” has a very Texas twist. The cuisines getting fused are barbecue and tacos. Pitmaster Miguel Vidal’s fifteen-hour mesquite-smoked brisket, lush and moist, is at its best when tucked into one of their heavenly homemade flour tortillas, lightly crisped on the griddle, making the air smell of campfires and cookouts. Say yes to homemade tomato-serrano salsa and guacamole in your taco. The menu is rounded out with smoky chicken and carnitas as well as grilled fajitas (technically not barbecue, but so good).",
+    "Rating":4.25,
+    "Address":"11500 Manchaca Rd",
+    "City":"Austin",
+    "State":"TX",
+    "Phone":"512-221-4248",
+    "Hours":"Open 7 days 8 a.m.–10 p.m. or till meat runs out; closed first Mon of month."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4617004,31.0559006 ]
+    },
+    "properties": {
+    "Name":"Miller’s Smokehouse",
+    "Opened":2008,
+    "Pitmaster":"Dirk Miller, 53, Dusty Miller, 29",
+    "Method":"Post and live oak; indirect-heat pits",
+    "ProTip":"Check the meat case for take-home options like Miller’s Grillers sausage packs.",
+    "Copy":"Miller’s roots are decidedly humble. They started selling sausage wraps part-time out of a meat-processing business (with a taxidermy operation in the back). A mere eight years later, after making our Top 50 list, they moved into bigger and better digs. These days they have it all: near-flawless brisket smoked for half a day; toothsome St. Louis–cut ribs; flavorful house-made beef-and-pork sausages; smoked turkey and chicken; and palate-pleasing piles of pulled pork. Standout desserts, handled by Momma Miller, a.k.a. Dirk’s wife, Lisa, range from red velvet cake to fluffernutter cookies. Visit on the weekend to fully appreciate the bar, craft beers, and live music.",
+    "Rating":4.25,
+    "Address":"300 E. Central Ave",
+    "City":"Belton",
+    "State":"TX",
+    "Phone":"254-939-5500",
+    "Hours":"Sun–Thur 11–2, Fri & Sat 11–9 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.3693008,30.6795006 ]
+    },
+    "properties": {
+    "Name":"Fargo’s Pit BBQ",
+    "Opened":2000,
+    "Pitmaster":"Alan Caldwell, 53",
+    "Method":"Oak (and another unspecified wood); indirect-heat pit",
+    "ProTip":"Go Wednesday for beef ribs.",
+    "Copy":"We foolishly thought pitmaster Alan Caldwell might finally be ready to chat about the secrets of his smoking method. Ha. Caldwell said only, “You can ask . . .” and then broke into a big smile followed by silence. When we arrived, the eight or so tables were all taken, filled with locals and a handful of ravenous A&M students. We could see the piles of sausage links, stacks of soon-to-be-cut ribs, and beautifully blackened chicken all on display at the counter. The brisket, flaunting a rosy-pink smoke ring, was the stuff memories are made of—even the lean was plenty moist. Beneath the sausage’s casing was a wonderfully smoky pork and beef filling. And the chicken, the downfall of many a joint, had juicy drumsticks with deep flavor all the way to the bone.",
+    "Rating":4.25,
+    "Address":"720 N. Texas Ave",
+    "City":"Bryan",
+    "State":"TX",
+    "Phone":"979-778-3662",
+    "Hours":"Tue–Sat 11–7. (New location starting in August: 1701 S. Texas Ave.)  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6231995,32.5259018 ]
+    },
+    "properties": {
+    "Name":"BBQ on the Brazos",
+    "Opened":2013,
+    "Pitmaster":"John Sanford, 60",
+    "Method":"Post oak; wood-burning gas-assisted rotisserie",
+    "ProTip":"You can eat on a second-floor balcony that overlooks the racetrack of MotorSport Ranch, a sports car club.",
+    "Copy":"Not quite as scenic as it sounds, BBQ on the Brazos is located inside a Texaco station just off US-377. Barbecue aficionados have already sniffed the joint out, though—the line was deep at nine o’clock on a weekend morning, with bleary-eyed customers ordering everything from brisket-and-egg tacos on handmade tortillas to Shanghai sandwiches (chopped brisket and sausage on a homemade bun). We were just as happy with our by-the-pound selection, with pleasantly fatty brisket, nicely glazed pork ribs, and spicy jalapeño sausage. The lightly sauced, cilantro-based coleslaw was the crowd favorite of the sides. Don’t skip dessert; you want some homemade pecan cobbler.",
+    "Rating":4.25,
+    "Address":"9001 E. US-377",
+    "City":"Cresson",
+    "State":"TX",
+    "Phone":"817-396-4758",
+    "Hours":"Mon–Fri 6:30–3, Sat 9–3 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7839966,32.7837982 ]
+    },
+    "properties": {
+    "Name":"Pecan Lodge",
+    "Opened":2010,
+    "Pitmaster":"Justin Fourton, 40",
+    "Method":"Post oak and hickory; indirect-heat pit",
+    "ProTip":"There’s no wait if you can find a seat at the bar.",
+    "Copy":"The influence of Pecan Lodge on Dallas’s barbecue scene cannot be overstated. At their (relatively) new place in Deep Ellum, they crank out four times the amount they did before. It’s all cooked in an array of unique offset smokers, and the sausages, both the original pork and the jalapeño-cheese beef version, are still handmade. The $75 Trough is the best way to try it all, especially since a monster beef rib (the best of their smoked meats) can set you back $25 on its own. The pitmaster sandwich is another winner, with three meats, slaw, and the welcome bite of fresh jalapeño. A Pecan Lodge alum has opened up a barbecue joint named Melt in Paris, France, so the joint’s influence doesn’t end in Dallas.",
+    "Rating":4.25,
+    "Address":"2702 Main",
+    "City":"Dallas",
+    "State":"TX",
+    "Phone":"214-748-8900",
+    "Hours":"Tue–Thur 11–3, Fri & Sat 11–10, Sun 11–3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6996002,26.1917 ]
+    },
+    "properties": {
+    "Name":"Rio Grande Grill BBQ & Tex Mex",
+    "Opened":2013,
+    "Pitmaster":"Daniel Wright, 31",
+    "Method":"Mesquite; offset smoker",
+    "ProTip":"The smoked-chicken tortilla soup makes a great side.",
+    "Copy":"Whimsical art and bright colors are unusual in a barbecue joint, but Rio Grande Grill throws the rules right out the kitchen door. Daniel Wright and his wife, head chef Stefania, break the rules with the food too, even battering up the smoked chicken to make the best of both worlds: crispy fried smoked bird. Though Daniel uses local mesquite, he is an expert at keeping its robust flavor from overwhelming the black-pepper-crusted Angus brisket. Ditto the velvety shreds of pulled pork with bits of crunchy, caramel-hued crust. The homemade sides and condiments include a tomato-based barbecue sauce with caramelized onions and even a tangy chimichurri. Final don’t-miss? Chopped brisket enchiladas.",
+    "Rating":4.25,
+    "Address":"417 W. Van Buren Ave",
+    "City":"Harlingen",
+    "State":"TX",
+    "Phone":"956-423-1817",
+    "Hours":"Tue–Fri 11–9, Sat 11–3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.2686005,30.9603004 ]
+    },
+    "properties": {
+    "Name":"Blue Moon BBQ",
+    "Opened":2007,
+    "Pitmaster":"Rick Moon, 67; Toni Moon, 62; and Matt Moon, 32",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"If you’re going for dinner on a Thursday, call ahead to reserve some prime rib.",
+    "Copy":"After driving down Old San Antonio Road for long enough to decide you’ve surely gotten lost, you’ll finally arrive at the tiny wooden building—and we do mean tiny—that belongs to Blue Moon BBQ. The address makes you think that the place is in the city of Hearne, but it’s actually a 23-mile jaunt into the middle of nowhere. So enjoy the scenic country roads and let those extra miles make you ravenous. With the exception of the chicken, which was slightly lacking in flavor, all the meats were top-notch. The brisket was perfectly juicy, with oaky smoke flavor throughout, and the pork ribs had just the right amount of pepper. It’s not crazy to order a couple of extra ribs to tide you over during your drive back to town.",
+    "Rating":4.25,
+    "Address":"18746 E. OSR",
+    "City":"Hearne",
+    "State":"TX",
+    "Phone":"979-549-4800",
+    "Hours":"Wed 11–3, Thur–Sat 11–7, Sun 11–3 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1428986,29.3474007 ]
+    },
+    "properties": {
+    "Name":"Heavy’s Outdoor Bar-B-Que",
+    "Opened":2008,
+    "Pitmaster":"Darren “Heavy” Bernal, 55",
+    "Method":"Mesquite; Southern Pride rotisseries",
+    "ProTip":"Chopped brisket, pinto beans, and barbecue sauce make a fantastic Frito pie.",
+    "Copy":"The Hill Country west of San Antonio has always been something of a barbecue desert, but that may be changing as former cow towns like Hondo and Sabinal absorb a wave of urban professionals looking to become part-time gentlemen ranchers and weekend bikers. On Saturdays, the back roads are clogged with Harley-Davidson motorcycles carrying oldish men, often with youngish wives or girlfriends. Rare is the roadhouse without a “Bikers Welcome!” banner flying as proudly as Old Glory herself. Such is the case at Heavy’s. Pitmaster Darren “Heavy” Bernal took over the old McBee’s Bar-B-Que, inheriting a small, cozy dining room and adding a couple of Southern Pride rotisseries, which pump out fragrant mesquite smoke. The brisket is perfectly rendered, with a good salt-and-pepper bark. Meaty pork spareribs get the same simple dry-rub treatment. But the star of the show may be the girthy pork-and-beef sausage from Pollok’s in Falls City.",
+    "Rating":4.25,
+    "Address":"1301 19th",
+    "City":"Hondo",
+    "State":"TX",
+    "Phone":"830-426-4445",
+    "Hours":"Tue–Sat 11–8, Sun 11–3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3817978,29.7987003 ]
+    },
+    "properties": {
+    "Name":"Pinkerton’s Barbecue",
+    "Opened":2016,
+    "Pitmaster":"Grant Pinkerton, 28",
+    "Method":"Mesquite and post oak; offset smoker",
+    "ProTip":"Stay late and enjoy a cocktail from the bar.",
+    "Copy":"When you go to Pinkerton’s, you are going to Grant’s house. No, really, he lives upstairs. It’s a family affair in more ways than one, because his parents help run things too (though they live elsewhere), and his mom does the baking. The smoking technique is a bit unusual, because Pinkerton starts his meats over strong mesquite and finishes them with mild post oak. The brisket’s smoky crust invites you back with every bite, and the fat is so well rendered it’s like butter. The pork ribs come in two options, glazed and unglazed, the former sweet and tender, like meat candy. The beef rib can hang with any of the big boys around the state, the meat pulling away from the bone with ease and sporting a nice peppery bark. Order some of the jalapeño-cheese rice as a side or try the duck and sausage jambalaya. The best finale? A slice of homemade banana cake.",
+    "Rating":4.25,
+    "Address":"1504 Airline Dr",
+    "City":"Houston",
+    "State":"TX",
+    "Phone":"713-802-2000",
+    "Hours":"Wed & Thur 11–9, Fri & Sat 11–10, Sun 11–9."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3939972,29.7343998 ]
+    },
+    "properties": {
+    "Name":"The Pit Room",
+    "Opened":2016,
+    "Pitmaster":"Michael Sambrooks, 31, and Bramwell Tripp, 33",
+    "Method":"Post oak; offset smoker",
+    "ProTip":"Order the house-made chicharrones and drizzle them with hot sauce.",
+    "Copy":"The smoked meats hanging under heat lamps might remind you of a Chinese barbecue restaurant, but the Pit Room’s culinary heritage is rooted in Texas and Mexico. They even make their own tortillas here, using fat drippings from the brisket. One of the secrets of the joint’s exceptional quality is that co-pitmasters Michael Sambrooks and Bramwell Tripp use USDA Prime beef and Berkshire-Duroc pork. The pork ribs in particular are deeply smoky yet moist. This is also a place where chicken and turkey are juicy and well worth ordering. And there are three types of house-made sausage: Czech (beef), jalapeño-cheddar (pork), and black-pepper garlic (venison). Hit the condiments bar for pickled veggies, salsa, and barbecue sauces. And have a homemade cookie ice cream sandwich for dessert.",
+    "Rating":4.25,
+    "Address":"1201 Richmond Ave",
+    "City":"Houston",
+    "State":"TX",
+    "Phone":"281-888-1929",
+    "Hours":"Open 7 days 11–9."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6710968,29.8901005 ]
+    },
+    "properties": {
+    "Name":"Kreuz Market",
+    "Opened":1900,
+    "Pitmaster":"Roy Perez, 55",
+    "Method":"Post oak; indirect-heat brick pit",
+    "ProTip":"BYOF. They serve on butcher paper and give you only a plastic knife.",
+    "Copy":"We didn’t see pitmaster Roy Perez and his famous muttonchop sideburns on our last visit to the Lockhart institution, but the rest was reassuringly familiar. Rows of picnic tables ushered us back to a long, hallowed hall, and we soon found ourselves in a happy haze of post oak smoke. Kreuz (pronounced “Krites”) is a place where barbecue expectations are upside down. Your first choice should be sausage. Part-beef, part-pork, and all-around flavorful, it boasts a snap that is particularly satisfying. If you don’t fancy that, choose the remarkably succulent pork chop. And if you crave beef, go for shoulder clod, lean and tender. Only the brisket is unpredictable, often coming in dry and under-smoked. As for sides, both the sauerkraut and German potato salad have nibblets of brisket for added heft.",
+    "Rating":4.25,
+    "Address":"619 N. Colorado",
+    "City":"Lockhart",
+    "State":"TX",
+    "Phone":"512-398-2361",
+    "Hours":"Mon–Sat 10:30–8."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9152985,26.1527996 ]
+    },
+    "properties": {
+    "Name":"The Smoking Oak",
+    "Opened":2015,
+    "Pitmaster":"Mario Dominguez Jr., 40",
+    "Method":"Oak; indirect-heat pit",
+    "ProTip":"The pitmaster’s mom makes the desserts, so get whatever is on display.",
+    "Copy":"After graduating from college, Mario Dominguez Jr. moved home to Mercedes, in the Rio Grande Valley, to join his family’s insurance agency. He enjoyed having his mama’s cooking once again, but he also found himself intrigued by Central Texas barbecue. After many barbecue “research” trips, he built a brick pit and eventually converted his home on Hidalgo Street into a barbecue joint. The man’s a purist. He even imports his joint’s namesake oak from the Hill Country. Fastidious technique is evident in everything he does, be it subtly smoked brisket with expertly rendered fat and salty bark or mountains of succulent pulled pork with a hint of sweetness. By the way, props to the fresh, tangy coleslaw.",
+    "Rating":4.25,
+    "Address":"546 Hidalgo",
+    "City":"Mercedes",
+    "State":"TX",
+    "Phone":"956-565-2246",
+    "Hours":"Thur–Sun 11–4."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4794006,29.4414997 ]
+    },
+    "properties": {
+    "Name":"The Granary ’Cue and Brew",
+    "Opened":2012,
+    "Pitmaster":"Tim Rattray, 34, Matt Coogan, 34",
+    "Method":"Oak; indirect-heat pit",
+    "ProTip":"Go on a Tuesday for killer pastrami beef ribs.",
+    "Copy":"From the outside, the Granary looks like hipster barbecue. The place inhabits a remodeled nineteenth-century house across the street from the brewery building in the Pearl development, with its pricey condos and upscale bakery. Inside, the place is sheathed in dark wood paneling and lit with filament bulbs. At one end is an anatomical image of a pig, its parts labeled in French. French! Curmudgeons who appreciate grungier spots where even the walls have smoke rings may well grumble. Until, that is, they try the meat. The well-barked brisket, though a touch dry, is incredibly flavorful. So are the pork ribs and the juicy chicken. A dual-purpose business, the Granary also brews beer, and Tim Rattray comes up with great sides like smoked collard greens and delicious burnt-end baked beans, not to mention desserts like bread pudding. Maybe the Granary has some old-school Texas in it after all.",
+    "Rating":4.25,
+    "Address":"602 Ave A",
+    "City":"San Antonio",
+    "State":"TX",
+    "Phone":"210-228-0124",
+    "Hours":"Tue–Sat 11–4:30."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3214035,31.9426003 ]
+    },
+    "properties": {
+    "Name":"Flores Barbecue",
+    "Opened":2016,
+    "Pitmaster":"Michael Wyont, 28",
+    "Method":"Post oak; offset and reverse-flow smokers",
+    "ProTip":"Order extra of the homemade pickles.",
+    "Copy":"When you see a red, white, and blue “BBQ” flag, you know you’ve arrived. Parked in a tiny patch of grass next to a hair salon, Michael Wyont’s popular trailer has been open for less than a year. On a stormy morning, we were grateful to be handed a sample of tender, well-seasoned brisket as we huddled under the overhang. The rest was just as welcome—the pulled pork was juicy, and the pork ribs crispy edged. Sides improved on the usual fare—chunky potatoes in a mustardy dressing, baked beans kicked up with bits of salty bacon. True, there’s no ambience, but as we sat in our rental car, eating the best barbecue in Whitney, we really didn’t mind.",
+    "Rating":4.25,
+    "Address":"400 S. Colorado",
+    "City":"Whitney",
+    "State":"TX",
+    "Phone":"254-580-3576",
+    "Hours":"Thur–Sat 11 till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7478027,30.2882996 ]
+    },
+    "properties": {
+    "Name":"Freedmen’s",
+    "Opened":2012,
+    "Pitmaster":"Bradley Robinson, 27",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Come early to nab one of the few parking spots in back. The spaces in front on the left are up for grabs too.",
+    "Copy":"Freedmen’s is no stranger to the pages of Texas Monthly. They made our list of the best new and improved barbecue joints in 2015 under the direction of talented former pitmasters Evan LeRoy and Chris McGhee. Now Bradley Robinson has taken the helm at the historic building. We worried that Freedmen’s might try to skate by on the strength of its great cocktails, sides, desserts (smoked banana pudding!), and interior (ancient stone walls, tufted leather upholstery). But in fact, the peppery spareribs are still smoky and the house-made sausage is as juicy as ever. The fatty brisket actually had us giddy. In tribute, we raised a glass of the bourbon-based cocktail they call the Ol’ Schmokey.",
+    "Rating":4.5,
+    "Address":"2402 San Gabriel",
+    "City":"Austin",
+    "State":"TX",
+    "Phone":"512-220-0953",
+    "Hours":"Tue–Wed 11–10, Thur–Sat 11–midnight, Sun 11–10."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7245026,30.2570992 ]
+    },
+    "properties": {
+    "Name":"La Barbecue",
+    "Opened":2012,
+    "Pitmaster":"Francisco Saucedo, 30, and Brendan Lamb, 28",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Skip the line by ordering at least five days out on their website.",
+    "Copy":"Owners LeAnn Mueller (yes, of the Louie Mueller clan) and Ali Clem have hunkered down at the Aztec Food Park in their fancy new food trailer. Until they move a block east this month, that’s where you’ll find folks lining up for a slow march to brisket and hot-guts glory. Since the departure of smoke shaman John Lewis for South Carolina, a string of young pitmasters, four in the past two years, have kept the oak fires burning, while Francisco “Franky” Saucedo has remained the steady influence. He’s been responsible for the spectacular sausages (order the chipotle version if you see it on the menu) and tender pork ribs. Monster beef ribs also get their rightful share of adulation here, but the buttery flavor of the all-natural beef brisket is as consistent as it comes. Slices of fatty brisket will likely make this place famous in California too, when it expands to Los Angeles later this year.",
+    "Rating":4.5,
+    "Address":"1906 E. Cesar Chavez",
+    "City":"Austin",
+    "State":"TX",
+    "Phone":"512-605-9696",
+    "Hours":"Wed–Sun 11–6 or till meat runs out. (New location starting in June: 2027 E. Cesar Chavez.) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.721199,30.3341999 ]
+    },
+    "properties": {
+    "Name":"Stiles Switch",
+    "Opened":2011,
+    "Pitmaster":"Bill Dumas, 49; Alan Mykal Jackson, 24; Lance Kirkpatrick, 47; Christopher McGhee, 29; and Andy Stapp, 26",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"On Southern Comfort Sundays, you can indulge in the likes of smoked chicken wings and “hog-rub fries.”",
+    "Copy":"You just feel good after a visit here. The super-friendly counter folks might hand you a bit of sausage or brisket to nibble. Plus, the roomy place, with beer signs and communal tables, is fun for families and groups. If you think you’ve had this style of barbecue before—heavy on the pepper and smoke—you’re right. Like many, pitmaster Lance Kirkpatrick learned his technique in the barbecue belt of Central Texas. Our most lavish praise is reserved for the beef rib (owner Shane Stiles stopped by to say they’d been working on it; tastes like they got it right). The fatty brisket bests the lean, but the pork ribs are reliably meaty, and all three homemade sausages have a nice snap. Fun fact for train buffs: the name “Stiles Switch” comes from a Central Texas stop on the I&GN Railroad in the 1800s.",
+    "Rating":4.5,
+    "Address":"6610 N. Lamar Blvd",
+    "City":"Austin",
+    "State":"TX",
+    "Phone":"512-380-9199",
+    "Hours":"Sun & Tue–Thur 11–9, Fri & Sat 11–10."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5009003,29.7451 ]
+    },
+    "properties": {
+    "Name":"Roegels Barbecue Co.",
+    "Opened":2014,
+    "Pitmaster":"Russell Roegels, 44",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Roegels loves to talk shop—chat him up and you will learn a lot about barbecue.",
+    "Copy":"Husband-and-wife owners Russell and Misty Roegels have been operating at this location since 2001, but three years ago they said goodbye to their Baker’s Ribs franchise and went their own way. Their hallmark is pepper—lots of it. The bark on the brisket and beef rib is a thing of black and spicy beauty, the meat beneath tender and moist. A sweet glaze distinguishes the juicy pork ribs, and even the pulled pork—which elsewhere is often indistinguishable from wet felt—has bits of crust and ample smoke flavor. Don’t skip the poultry here; the crispy-skinned chicken in particular is destination worthy. Excellent homemade sides and a fine bourbon banana pudding round out the picture. Oh, one final thing: Thursday’s lunch special, a smoked pastrami Reuben, is deliriously good.",
+    "Rating":4.5,
+    "Address":"2223 S. Voss Rd",
+    "City":"Houston",
+    "State":"TX",
+    "Phone":"713-977-8725",
+    "Hours":"Mon–Sat 11–8, Sun 11–6 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6483994,29.6814003 ]
+    },
+    "properties": {
+    "Name":"City Market",
+    "Opened":1958,
+    "Pitmaster":"Joe Capello Sr., 70",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"There are two separate lines for meats and sides; bring a friend.",
+    "Copy":"The smoke room at City Market is worthy of a barbecue-lover’s bucket list. Tucked inconspicuously in the back right-hand corner of the building, its dark windows don’t let on about the meat magic happening behind them, but, boy, is it. The brisket on a recent visit was moist and flavorful, boasting a smoky, semisweet aftertaste (no assistance needed from the excellent mustardy sauce). And to our delight, the pork ribs were just as we’d remembered, with meat that let go of the bone when we bit into its sweet and salty crust. The sausage’s snap was almost audible at a distance, with an equally impressive pink interior that was juicy and pleasantly coarse.",
+    "Rating":4.5,
+    "Address":"633 E. Davis",
+    "City":"Luling",
+    "State":"TX",
+    "Phone":"830-875-9019",
+    "Hours":"Mon–Sat 7–6. Cash only."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6149979,33.2109985 ]
+    },
+    "properties": {
+    "Name":"Hutchins BBQ",
+    "Opened":1978,
+    "Pitmaster":"Tim Hutchins, 36",
+    "Method":"Oak (brisket only) and pecan; indirect-heat pits",
+    "ProTip":"“Texas twinkies”—brisket-stuffed jalapeños wrapped in bacon—are sold on weekends.",
+    "Copy":"Four decades ago, when Tim Hutchins’s father first started serving food in far north Texas, catfish was king and his smoked meats were almost an afterthought. But along the way, the barbecue evolution happened, and now it’s tough to find a hotter ’cue operation anywhere north of Dallas. Wood-paneled walls and black and white photographs give the place an old-school country steakhouse vibe. Hutchins gets about a thousand hormone-free briskets a week almost entirely from Aspen Ridge, out of Greeley, Colorado. Cooked over oak and finished with pecan, they are cut to order on a butcher block at the front of the store, yielding black-crusted pink slices that are as spectacular to look at as to eat.",
+    "Rating":4.5,
+    "Address":"1301 N. Tennessee",
+    "City":"McKinney",
+    "State":"TX",
+    "Phone":"972-548-2629",
+    "Hours":"Sun–Thur 11–9, Fri & Sat 11–9:30."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2818985,29.5638008 ]
+    },
+    "properties": {
+    "Name":"Killen’s Barbecue",
+    "Opened":2014,
+    "Pitmaster":"Manny Torres, 44",
+    "Method":"Post oak, hickory, and pecan; wood-fired rotisserie smoker",
+    "ProTip":"Fried chicken on Sundays pleases non-beef eaters.",
+    "Copy":"Owner Ronnie Killen is first and foremost a chef. That training shows in sides (say yes to creamed corn), in desserts that exceed the norm (croissant bread pudding with tres leches sauce), and his restless quest for meaty perfection. One example is a recent dry-aged-brisket kick—yep, like dry-aged steaks. Not available regularly, said briskets are a treat, with a concentrated beefiness. But even when he’s using normal wet-aged brisket (which is USDA Prime, by the way), the meat is supremely tender under a nice, crunchy bark (although it can be dry). Everybody knows that his signature is the beef rib (stupendous), but the real aficionados get the hedonistic bone-in pork belly, essentially a sparerib with bacon attached. It goes beautifully with his mustard-based sauce. The building is designed with efficiency, not soul, in mind.",
+    "Rating":4.5,
+    "Address":"3613 E. Broadway",
+    "City":"Pearland",
+    "State":"TX",
+    "Phone":"281-485-2272",
+    "Hours":"Tue–Sun 11–8."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4046021,29.3824997 ]
+    },
+    "properties": {
+    "Name":"2M Smokehouse",
+    "Opened":2016,
+    "Pitmaster":"Esaul Ramos, 32",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Go for the tortillas, which are so much better than white bread.",
+    "Copy":"In 2015 Esaul Ramos left San Antonio for Austin and became the lead pitmaster at La Barbecue. Now he’s back in his hometown with a barbecue joint of his own. 2M Smokehouse opened last year and quickly gained traction. Ramos could have done a La Barbecue copycat, but he went a different direction. The tender, fatty brisket is certainly familiar, but at 2M Smokehouse you can get it folded into locally made flour tortillas (top them with pico de gallo or spring for the house-made pickled nopales). The smoked turkey and pork ribs are both admirable, but instead of regular sausage, get the poblano-and-Oaxaca-cheese version. It’s another of the signature recipes that make this spot unique.",
+    "Rating":4.5,
+    "Address":"2731 S. WW White Rd",
+    "City":"San Antonio",
+    "State":"TX",
+    "Phone":"210-885-9352",
+    "Hours":"Thur–Sun 11–4 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.946701,29.8631001 ]
+    },
+    "properties": {
+    "Name":"Hays Co. Bar-B-Que",
+    "Opened":2007,
+    "Pitmaster":"Michael Hernandez, 43; Omar Serna, 44; Zach Junot, 26",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Beans are in a serve-yourself pot across the room; do not miss them.",
+    "Copy":"You might find yourself pulling in here after a long stretch on I-35, not expecting much. Michael and Asenette Hernandez’s place sits on the frontage road alongside other restaurants you’ve probably never heard of. But two steps inside the door, you’re hit by a flood of rich meaty aromas and realize you’re one lucky son of a gun. The fluorescent lights and the low ceiling fade from consciousness as you dig in. The brisket has a smoky, rosy ring and dark crust with an almost sweet crackle. The jalapeño-cheese sausage will have you nodding your head as if to say, “Oh, yeah, that’s good.” The sizeable pork ribs may not quite measure up to the other two, but they are still convincing. When your feast is over, sit a spell in the restaurant’s Texas-size backyard, full of vintage delights.",
+    "Rating":4.5,
+    "Address":"1612 S. I-35",
+    "City":"San Marcos",
+    "State":"TX",
+    "Phone":"512-392-6000",
+    "Hours":"Mon–Thur 11–9, Fri & Sat 11–10, Sun 11–4 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2937012,32.344101 ]
+    },
+    "properties": {
+    "Name":"Stanley’s Famous Pit Barbecue",
+    "Opened":1959,
+    "Pitmaster":"Nick Pencis, 41, Jonathan Shaw, 38",
+    "Method":"Pecan; gas-fired smoker (ribs), indirect-heat pit (everything else)",
+    "ProTip":"Have a Breakfast Brother-in-Law in the morning and a Pork Brother-in-Law in the afternoon.",
+    "Copy":"In 2009 Nick Pencis—a rock and roll drummer, two-time business-school dropout, and owner of Stanley’s—had an epiphany. He had driven all the way to Lockhart to eat at the legendary joint Smitty’s and, in his words, “to try to figure out the true meaning of barbecue.” Walking past Smitty’s floor fire pit, feeling the heat of the ancient ways, he saw the future in the past. He hired a new pitmaster, Jonathan Shaw, rebuilt the kitchen, and bought two new pits. Concentrating on ribs at first, Shaw came up with a piquant eleven-spice rub and a sweet glaze. They won “best pork ribs” at the first Texas Monthly BBQ Festival in 2010. With that under their belt, Pencis and Shaw next vowed to understand the true meaning of brisket. Their fanatical attention results in buttery meat with a thick, peppery black crust that glistens like a city at night. Today, Stanley’s is not just a restaurant but a community hub. Once you settle in, you may not want to leave.",
+    "Rating":4.5,
+    "Address":"525 S. Beckham Ave",
+    "City":"Tyler",
+    "State":"TX",
+    "Phone":"903-593-0311",
+    "Hours":"Mon–Fri 7–10 a.m. & 11–10, Sat 11–10."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7313995,30.2700005 ]
+    },
+    "properties": {
+    "Name":"Franklin Barbecue",
+    "Opened":2009,
+    "Pitmaster":"Aaron Franklin, 39",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Beef ribs are Saturday only, making them the hardest to get in Texas barbecue.",
+    "Copy":"Four years ago, Franklin Barbecue was our hands-down pick for best barbecue in the state (i.e., the world). A couple of years later, Aaron Franklin published a best-selling cookbook and won a James Beard award for best chef in the region, a first for a pitmaster. He’s the most famous barbecue cook in the country, and he’s recently a co-founder of a new Austin food blowout, the Hot Luck Festival. Given all that, we wouldn’t have been surprised if the barbecue at his restaurant had started to slip. But one taste of the brisket, the one every pitmaster from Texas to Timbuktu wants to emulate, tells you otherwise. (Yes, Franklin has ceded its number-one place on our list to Snow’s, but that’s not a knock on it so much as a reflection that Snow’s is currently smoking hot.) On a lean cut of Franklin brisket, a line of soft, yielding fat gilds the edge, carrying with it the vanilla-tinged flavor of oak smoke and a black-pepper bite. The beef is tender enough to cut with a spoon but holds together until the first luscious mouthful. Needless to say, the quality extends across the menu, yea, even unto the turkey, which is not commercially brined and thus tastes fresh and fantastic. How does Franklin do it? With a little help from his friends: there’s his tireless wife and co-owner, Stacy; Benji Jacob, his best friend since high school, who tends the front of house and the restless line of customers; and meat master Braun Hughes, who ensures that a hundred or more briskets come out perfect every time.",
+    "Rating":4.75,
+    "Address":"900 E. 11th",
+    "City":"Austin",
+    "State":"TX",
+    "Phone":"512-653-1187",
+    "Hours":"Tue–Sun 11–3 or till meat runs out. Closed for vacation Aug 1–10."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7251968,30.2686996 ]
+    },
+    "properties": {
+    "Name":"Micklethwait Craft Meats",
+    "Opened":2012,
+    "Pitmaster":"Tom Micklethwait, 39",
+    "Method":"Oak; indirect-heat pit",
+    "ProTip":"The place is four tenths of a mile from Franklin Barbecue, and the wait is usually only 15 to 30 minutes.",
+    "Copy":"With its rounded corners and neatly painted garlands of oak leaves and acorns, Micklethwait’s fat little cream-colored trailer looks like part of a Hobbit community. It sits amid picnic tables on a tree-shaded lot in East Austin and offers superlative victuals, including brisket (embraced by a super-peppery, midnight-dark bark), rosy pork ribs, pulled pork, chicken, and a spectacular, fat-slicked beef rib that will feed four (and set you back a very-much-worth-it $20 a pound). The word “craft” in the name also refers to a short list of fine homemade sausages such as kielbasa and andouille and the occasional specialty like coarse lamb-and-beef with tangerine zest, courtesy of owner Tom Micklethwait (the “th” is silent, by the way). Other standouts are jalapeño-cheese grits; a creamy, mustard-rich potato salad; and chef-quality lemon poppy-seed slaw. Oh, and leave room for buttermilk pie.",
+    "Rating":4.75,
+    "Address":"1309 Rosewood Ave",
+    "City":"Austin",
+    "State":"TX",
+    "Phone":"512-791-5961",
+    "Hours":"Tue–Sat 11–6, Sun 11–3 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.4397964,30.1693001 ]
+    },
+    "properties": {
+    "Name":"TRUTH Barbeque",
+    "Opened":2015,
+    "Pitmaster":"Leonard Botello IV, 28",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"The “Love Texas” sign makes a perfect background for selfies.",
+    "Copy":"Truth looks too cute to be serving serious barbecue. The carefully curated interior—with its hand-lettered signs, Texas license plates, and Instagram-ready desserts—is a far cry from a no-frills meat market or a rusty roadside pit. The first bite announces the fact that youthful proprietor Leonard Botello IV has been an admirer of the handiwork of other masters of the craft, notably Franklin Barbecue’s Aaron Franklin. The pork ribs are decadently moist and slightly sweetened with a glaze. The brisket possesses an intense meaty flavor, subtle but deep smoke penetration, and a fine black-pepper crust. On occasion, they’re in a hurry to get a brisket out and the fat doesn’t render enough, but that’s a very rare flub. And the sides—can we talk about the sides? There is creamy mac and cheese with sizzling bacon crumbled on top; slow-cooked collard greens; rapturously buttery corn pudding; and bright, crisp slaw. The homemade white bread will make you reassess the spongy store-bought stuff. Somehow you must leave room for one of Truth’s five or so different monster cakes, which Botello’s mother, Janel, makes from scratch. Liberally slathered in homemade frosting, the slice you couldn’t finish will be your dessert that evening.",
+    "Rating":4.75,
+    "Address":"2990 US-290 West",
+    "City":"Brenham",
+    "State":"TX",
+    "Phone":"979-830-0392",
+    "Hours":"Thur–Sun 11–4 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8367004,32.9337006 ]
+    },
+    "properties": {
+    "Name":"Cattleack Barbeque",
+    "Opened":2013,
+    "Pitmaster":"Todd David, 59",
+    "Method":"Post oak and hickory; indirect-heat pit and wood-fired rotisserie",
+    "ProTip":"For the best twenty seconds of ’cue porn in Texas, go to Cattleack’s website (sorry, it’s not on mobile).",
+    "Copy":"Every ounce of your being recoils at the idea of eating barbecue in an industrial-area strip center in north Dallas. It’s just wrong! How could it have any soul! Calm down. Walk to the end of the line and start inching along (it’s like going through airport security). Pass the time identifying famous Texas pitmasters from their mug shots on the wall, and have your order well in mind when you get to the counter, because the meat cutters work at supersonic speed. Tote your tray to a varnished picnic table, amid all the cute signs and tchotchkes, and take your first bite. Prepare to feel the earth move, because, yes, it’s that good. Cattleack is the project of Todd David and his wife, Misty, who’ve given it all their love and then some. Their Akaushi ribs give new meaning to “well marbled,” while incredibly moist brisket is cradled by bark that melds into the meat. Elemental pulled pork separates into succulent strands at the touch of a fork. The pork ribs, hefty and high quality, beat the sausage, which is nice and coarse but awfully salty. Don’t pass up specials like house-made boudin or lamb-and-fig sausage.",
+    "Rating":4.75,
+    "Address":"13628 Gamma Rd",
+    "City":"Dallas",
+    "State":"TX",
+    "Phone":"972-805-0999",
+    "Hours":"Thur & Fri and first Sat of month 10:30–2."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.7309036,32.4655991 ]
+    },
+    "properties": {
+    "Name":"Bodacious Bar-B-Q",
+    "Opened":1968,
+    "Pitmaster":"Jordan Jackson, 34, and Scott Turner, 30",
+    "Method":"Mesquite, post oak; four different pits: vertical flow, offset, indirect heat, direct heat",
+    "ProTip":"The brisket is marathon-smoked for 24 to 26 hours. Get some.",
+    "Copy":"Jordan Jackson graduated from Le Cordon Bleu College of Culinary Arts, in Austin, in 2011, but he never wanted to be a chef. He moved back home to East Texas, honed his smoking chops at Stanley’s, in Tyler, and then made his move. In 2015, he took over the location of the original Bodacious mini-chain from founder Roland Lindsey. Then he enlisted another Cordon Bleu grad, Scott Turner, and they started upping their game, doing things like buying hormone-free Angus briskets from 44 Farms, in Central Texas, and making their own sausages (each falling-apart, gloriously greasy bite of the jalapeño version is a little different from the one before). The brown wooden building has a proper old-fashioned feel, with pictures of almost fifty years of the Lindsey family on the walls. Founder Roland Lindsey still stops in often to eat and check on the joint he opened in 1968. He’s entitled. In 2012, his daughter married Jackson, making the original Bodacious a true family business.",
+    "Rating":4.75,
+    "Address":"2227 S. Mobberly Ave",
+    "City":"Longview",
+    "State":"TX",
+    "Phone":"903-753-8409",
+    "Hours":"Tue–Sat 10–5."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4199982,30.0802994 ]
+    },
+    "properties": {
+    "Name":"CorkScrew BBQ",
+    "Opened":2011,
+    "Pitmaster":"Will Buckman, 38",
+    "Method":"Red oak; wood rotisserie pit",
+    "ProTip":"You know you’re in Texas when you can add pico to any item for a dollar.",
+    "Copy":"Moving into a brick-and-mortar from a cute but cramped trailer was a blessing for owners Will and Nichole Buckman. Their numbering system is a blessing for customers, who can now hang out and avoid the line. It’s pleasant inside the new digs, with touches like canning jars ?for light covers and an array of vintage license plates. Finding the place is easy; just follow your nose through the historic neighborhood of Old Town Spring. We have recommendations, but everything on the menu is superb, from the Black Angus Prime all-natural brisket and the beef rib in a black-pepper jacket to the Duroc pulled pork and the succulent whole chicken. Visit on a Saturday to snag said chicken or a dino-size beef rib. And if you’re running late, check social media to see what’s sold out.",
+    "Rating":4.75,
+    "Address":"26608 Keith",
+    "City":"Spring",
+    "State":"TX",
+    "Phone":"832-592-1184",
+    "Hours":"Tue–Sat 11–6 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4107971,30.5685997 ]
+    },
+    "properties": {
+    "Name":"Louie Mueller Barbecue",
+    "Opened":1949,
+    "Pitmaster":"Wayne Mueller, 51",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"Call in your order to skip the line.",
+    "Copy":"Many a barbecue joint is named the Shack. Louie Mueller could be the Court. Not only is its building a former basketball court/gymnasium, its place in the history of Texas barbecue is unquestionably regal. Its ownership is a dynasty—founded by Louie Mueller in 1949, passed down to his son Bobby in 1974, and assumed by Bobby’s son Wayne in 2008—and its inner circle has set standards for the realm, starting decades ago with skilled pitmaster Fred Fountaine, whose tricks of the trade made the barbecue a phenomenon. He shared that knowledge with Bobby, who presided over the restaurant’s rise to legendary status. But mainly Louie Mueller is a court because it has served its subjects wisely and well. It bestows upon them lavishly peppered brisket, beef ribs of monumental heft, and snappy house-made jalapeño sausage oozing with beefy deliciousness. Pork is treated with equal care, smoke penetrating every molecule of both the ribs and the shoulder that’s destined to become pulled pork. Finally, the enterprise’s size and character assure its place among barbecue royalty: vast rooms filled with a fragrant, smoky haze, walls cured to the color of post oak, an array of venerable wooden tables and chairs. Louie Mueller is the most enlightened of monarchies. Long may it reign.",
+    "Rating":4.75,
+    "Address":"206 W. 2nd",
+    "City":"Taylor",
+    "State":"TX",
+    "Phone":"512-352-6206",
+    "Hours":"Mon–Fri 11–6, Sat 10–6."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6144028,30.0988998 ]
+    },
+    "properties": {
+    "Name":"Tejas Chocolate Craftory",
+    "Opened":2015,
+    "Pitmaster":": Scott Moore Jr., 53, and Greg Moore, 51",
+    "Method":"Post oak; indirect-heat pit",
+    "ProTip":"The carrot soufflé will change your mind about what’s possible in a barbecue side.",
+    "Copy":"Scott Moore and his partner, Michelle Holland, had a problem: their bean-to-bar chocolate business had a loyal following but not enough revenue. So they rented the oldest building in Tomball, roped in Scott’s brother, Greg (who just so happened to be a chef), and opened the most unexpected barbecue outfit in the state. They now serve, alongside house-roasted-cacao truffles, superlative smoked meats. The USDA Prime brisket is rich, juicy, and encased in a well-balanced pepper-and-salt bark. The pork ribs all but collapse with tenderness. The beef short ribs, available only on Saturdays, are damn near perfect. It all comes out of a double-propane-tank, nuclear-submarine-looking offset smoker Scott calls the Black October. Greg’s kitchen turns out sides that taste more like the work of a Parisian/Mexican bistro than a Texas smokehouse, specifically the tomatillo-based Verde Que sauce and cazuela-prepared mole sauce. As for desserts, well, remember how they started as a bean-to-bar chocolate shop?",
+    "Rating":4.75,
+    "Address":"200 N. Elm",
+    "City":"Tomball",
+    "State":"TX",
+    "Phone":"281-892-1700",
+    "Hours":"Tue–Fri 11–6, Sat 8:30–10:30 (breakfast tacos), 11–5 (barbecue)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.0009995,33.5079002 ]
+    },
+    "properties": {
+    "Name":"Evie Mae’s Pit Barbeque",
+    "Opened":2015,
+    "Pitmaster":"Arnis Robbins, 33",
+    "Method":"Oak; offset smoker",
+    "ProTip":"Grab a free Shiner from the beer tub while you stand in line.",
+    "Copy":"Evie Mae’s shiny new strip-center spot has been open a little more than a year, but visitors from nearby Lubbock don’t seem to miss the food truck (conveniently, the new place is about a quarter mile from the old location). An early arrival meant we not only avoided a wait but also were able to secure one of the coveted beef ribs, massive in size, perfectly tender, and with just the right amount of bark. Ditto for the spectacular burnt ends, which actually bested the somewhat undersalted brisket. Three choices for sausage, including spicy green chile and German, satisfied everyone in our group. We pondered a huge array of sides and desserts as we moved along the cafeteria line, deciding on subtly spicy green-chile cheese grits, tangy smoked beans, and—to seal the deal—creamy coconut pie.",
+    "Rating":4.75,
+    "Address":"217 US-62",
+    "City":"Wolfforth",
+    "State":"TX",
+    "Phone":"806-782-2281",
+    "Hours":"Wed–Sat 11–2 or till meat runs out."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0098038,30.4132004 ]
+    },
+    "properties": {
+    "Name":"Snow’s",
+    "Opened":2003,
+    "Pitmaster":"Tootsie Tomanetz, 82, and Kerry Bexley, 50",
+    "Method":"Post oak; both direct- and indirect-heat pits",
+    "ProTip":"This is some of the least expensive top-quality brisket around—$15.95 a pound, in case you’re planning a party.",
+    "Copy":"It’s early morning and the air is not yet blistering, so you roll the car windows down. You turn off the highway onto a farm road and meander through pastures and farmland, anticipation growing with every mile. Thirty minutes later you arrive in the micropolis of Lexington (population 1,200) and head for a small red building. Joining the line, you turn to gaze at the big open-air shed out back. That’s where the magic happens. Moving deliberately amid an array of magnificently battered barbecue pits—which resemble something from the dawn of the industrial revolution—are three people oblivious to the gawkers fifty feet away. They consist of the dean of Texas pitmasters, Tootsie Tomanetz; her boss and the owner of Snow’s, Kerry Bexley; and the new kid on the block, pit hand Clay Cowgill. Their skill and the indelible experience that they create are the reasons why Snow’s is once again at the top of our list. They might lift the lid on a pit occasionally to prod a pork steak (the cut’s gnarly exterior belies the succulent meat within), they might pause to inspect the rows of briskets. Every so often, Tomanetz will take a little cotton mop and baste the chicken halves with a thin, sweet sauce. Periodically, trays of aromatic meats are toted inside to be sliced by the efficient crew overseen by Kim, Bexley’s wife, in the small dining room. Meanwhile, you’ve ordered and paid up. You look for a picnic table to share (if you’re lucky, there’s space at one under the shed—think of them as chef’s tables). You settle down and dig into brisket so succulent your eyes close involuntarily. But it’s the chicken (yes, chicken!) and salty pork steaks with pockets of buttery fat that will have you wondering why you don’t spend more Saturday mornings in Lexington.",
+    "Rating":5,
+    "Address":"516 Main",
+    "City":"Lexington",
+    "State":"TX",
+    "Phone":"979-542-8189",
+    "Hours":"Sat 8–1:30 or till meat runs out."
+    }
+  }
+]
+}

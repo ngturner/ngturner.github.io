@@ -3,7 +3,7 @@
   <title>A Leaflet map!</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"/>
   <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
-    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="jquery-2.1.1.min.js"></script>
   <style>
     #map{ height: 100%; }
   </style>
@@ -25,11 +25,11 @@
     }).addTo(map);
 
   // load GeoJSON from an external file
-  $.getJSON("TxMonthlyTop50BBQ.geojson",function(data){
+  $.getJSON("rodents.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(map);
   });
- 
+  
   </script>
 </body>
 </html>
