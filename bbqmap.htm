@@ -1,0 +1,41 @@
+<html>
+<head>
+  <title>Texas Monthly's Top 50 BBQ Joints</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <style>
+    #map{ height: 100%; }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <script>
+
+  // initialize the map
+  var map = L.map('map').setView([31.35, -100.07], 7);
+
+  // load a tile layer
+  L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png',
+    {
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="http://www.texasmonthly.com/food/the-list-the-top-50-barbecue-joints-in-texas/">Texas Monthly</a>',
+      maxZoom: 18,
+    }).addTo(map);
+
+  // load GeoJSON from an external file
+  $.getJSON("TxMonthlyTop50BBQ.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data, {
+      pointToLayer: function(feature,latlng){
+        var marker = L.marker(latlng);
+        marker.bindPopup("Name: " + feature.properties.Name + '<br/>' + feature.properties.Opened + '<br/>' + feature.properties.Pitmaster + '<br/>' + feature.properties.Method + '<br/>' + feature.properties.ProTip + '<br/>' + feature.properties.Copy + '<br/>' + feature.properties.Rating + '<br/>' + feature.properties.Address + '<br/>' + feature.properties.City + '<br/>' + feature.properties.State + '<br/>' + feature.properties.Phone + '<br/>' + feature.properties.Hours);
+        return marker;
+      }
+    }).addTo(map);
+  });
+ 
+  </script>
+</body>
+</html>
