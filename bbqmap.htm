@@ -31,7 +31,7 @@ var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{
     }).addTo(map);
 
   // load GeoJSON from an external file
-  $.getJSON("TxMonthlyTop50BBQ.geojson",function(data){
+  $.getJSON("https://raw.githubusercontent.com/ngturner/ngturner.github.io/master/TxMonthlyTop50BBQ.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data, {
       pointToLayer: function(feature,latlng){
