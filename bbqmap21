@@ -1,0 +1,70 @@
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Texas Monthly's Top 50 BBQ Joints</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <style>
+    #map {
+      width: 600px;
+      height: 400px;
+    }
+  </style>
+  <style>body { padding: 0; margin: 0; } html, body, #map { height: 100vh; width: 100vw; }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <script>
+
+  // initialize the map
+  var map = L.map('map').setView([31.35, -100.07], 7);
+
+  // load a tile layer
+var OpenStreetMap_Mapnik = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
+    {
+      attribution: '&copy; <a href="https://carto.com/attribution">CARTO</a> | <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="http://www.texasmonthly.com/food/the-list-the-top-50-barbecue-joints-in-texas/">Texas Monthly</a>',
+      maxZoom: 18,
+    }).addTo(map);
+
+  // load GeoJSON from an external file
+  $.getJSON("https://raw.githubusercontent.com/ngturner/data/master/TxMonthlyTop50BBQ_21.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data, {
+      pointToLayer: function(feature,latlng){
+        var marker = L.marker(latlng);
+        marker.bindPopup("<b>Name:</b> " + feature.properties.Name + '<br/>' + "<b>Opened:</b> " + feature.properties.Opened + '<br/>' + "<b>Pitmaster:</b> " + feature.properties.Pitmaster + '<br/>' + "<b>Method:</b> " + feature.properties.Method + '<br/>' + "<b>ProTip:</b> " + feature.properties.ProTip + '<br/>' + "<b>Description:</b> " + feature.properties.Copy + '<br/>' + "<b>Rating:</b> " + feature.properties.Rating + '<br/>' + "<b>Address:</b> " + feature.properties.Address + ", " + feature.properties.City + ", " + feature.properties.State + '<br/>' + "<b>Phone:</b> " + feature.properties.Phone + '<br/>' + "<b>Hours:</b> " + feature.properties.Hours);
+        return marker;
+      }
+    }).addTo(map);
+  });
+
+  // create custom icon
+    var LocIcon = L.icon({
+        iconUrl: 'loc.png',
+        iconSize: [25, 25], // size of the icon
+        });
+  
+  // add geolocation
+  function onLocationFound(e) {
+    var radius = e.accuracy / 2;
+    var location = e.latlng
+    L.marker(location, {icon: LocIcon}).addTo(map)
+    L.circle(location, radius).addTo(map);
+  }
+
+  function onLocationError(e) {
+    alert(e.message);
+  }
+
+  map.on('locationfound', onLocationFound);
+  map.on('locationerror', onLocationError);
+
+  map.locate({setView: true, maxZoom: 10});
+
+  </script>
+</body>
+</html>
